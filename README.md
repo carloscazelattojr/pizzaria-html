@@ -5,7 +5,7 @@
 Esse projeto foi desenvolvimento durante o treinamento do André Fontenelle (Curso Udemy), onde mostra de uma forma simples e elegante a criação de um site de uma pizzaria utilizando HTML, CSS e Javascript.
 
 **Versão online**
-* [Site](http://www.carlosjunior.com.br/pizzaria)
+* [Site](http://www.carlosjunior.com.br/projects/pizzaria)
 
 
 ## Tecnologias utilizadas:
